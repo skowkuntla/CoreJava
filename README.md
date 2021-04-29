@@ -1,3 +1,3 @@
 # CoreJava
 
-- Exercises and Lesson of Core Java
+- Exercises and Lessons of Core Java
